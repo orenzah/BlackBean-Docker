@@ -1,0 +1,3 @@
+[submodule "BlackBeanControl"]
+	path = BlackBeanControl
+	url = https://github.com/davorf/BlackBeanControl
